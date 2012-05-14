@@ -1,0 +1,51 @@
+Release Notes for Rakuten Checkout ver. 1.0.5
+----------------------------------------------
+19.04.2012
+
+*** Bug Fixes ***
+(COE-4) Gambio GX2 checkout module seems not to regard the option: Einkaufen nicht vorra"tiger Artikel erlauben
+
+
+Release Notes for Rakuten Checkout ver. 1.0.4
+----------------------------------------------
+09.02.2012
+
+*** Bug Fixes ***
+(#) Fixed issue with zero tax rate for order line items
+
+
+Release Notes for Rakuten Checkout ver. 1.0.3
+----------------------------------------------
+16.01.2012
+
+*** Rebranding ***
+( ) Rebranded checkout module to Rakuten Checkout
+
+
+Release Notes for Tradoria Checkout ver. 1.0.2
+----------------------------------------------
+18.11.2011
+
+*** Version Change ***
+( ) Changed version to match other modules
+
+
+Release Notes for Tradoria Checkout ver. 1.0.1
+----------------------------------------------
+16.11.2011
+
+*** Minor Changes ***
+(^) Changed URL of Tradoria Checkout sandbox server
+
+
+Release Notes for Tradoria Checkout ver. 1.0.0
+----------------------------------------------
+20.10.2011
+
+*** Major Features ***
+(+) Integration with Tradoria Checkout
+(+) Configuration of the module in the back-end
+(+) Support of Standard and Inline integration methods
+(+) Support of order creation callbacks
+(+) Support of status updates callbacks
+(+) Support of shipment calls
